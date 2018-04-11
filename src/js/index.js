@@ -242,7 +242,7 @@ class App extends React.Component {
         </div>
         <div className="block">
           <b>Max amount of bets:</b> &nbsp;
-          <span>{this.state.maxAmountOfBets} ether</span>
+          <span>{this.state.maxAmountOfBets}</span>
         </div>
         <hr/>
         <h2>Let's play!</h2>
