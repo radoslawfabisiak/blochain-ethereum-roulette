@@ -245,7 +245,7 @@ class App extends React.Component {
           <span>{this.state.maxAmountOfBets}</span>
         </div>
         <hr/>
-        <h2>Let's play!</h2>
+        <h2>Lets play!</h2>
         <button onClick={this.bet}>Add bet</button>
         <button onClick={this.play}>Start lottery</button>
       </div>
