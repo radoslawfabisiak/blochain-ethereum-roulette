@@ -2,3 +2,6 @@
 * npm install
 * webpack
 * npm run dev
+
+#License
+MIT
